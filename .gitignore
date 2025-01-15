@@ -22,7 +22,11 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-/.vs/profilesapp/FileContentIndex/3502cc51-7859-4e42-8c89-ca9a15fe15d3.vsidx
-/.vs/profilesapp/FileContentIndex/6683624c-0682-4ae8-9bd3-9fd692bdda13.vsidx
-/.vs/profilesapp/FileContentIndex/5726c68f-50c6-427c-aed1-9d0481aa5fff.vsidx
+
 /.vs/profilesapp/FileContentIndex
+
+# amplify
+node_modules
+.amplify
+amplify_outputs*
+amplifyconfiguration*
